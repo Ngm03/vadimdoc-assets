@@ -1,0 +1,1 @@
+# vadimdoc-assets
